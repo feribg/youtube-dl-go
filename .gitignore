@@ -2,6 +2,8 @@
 *.o
 *.a
 *.so
+.DS_STORE
+bin
 
 # Folders
 _obj
